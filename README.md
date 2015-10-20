@@ -1,6 +1,3 @@
 # Hello-world
-Hello world test (wooooooo)
-.
-.
-.
-.
+Hello world test (woooooooj)
+
